@@ -1,0 +1,537 @@
+{
+  "document": {
+    "title": "Classmates We Remember — Aggregate Memorial Dossier",
+    "subtitle": "UCLA Anderson MBA — Class of 1996",
+    "description": "Best-of merge across two independent research passes — preferring published obituaries over drafted ones, with all photographs aggregated.",
+    "generated_date": "2026-05-07",
+    "source_files": [
+      "1996 Classmates We Remember.pdf",
+      "1996_Classmates_We_Remember_Research.docx",
+      "Analytical Report on Seven Deceased Individuals from the Memorial Page.docx"
+    ]
+  },
+  "coverage_summary": {
+    "published_obituary": ["Randy Smith", "Stefanie Verkauf", "D. Paul Yeuell", "Artur Ribeiro Neto"],
+    "obituary_indexed_text_unavailable": ["Jeff Lulenski"],
+    "drafted_only": ["Greg Bolin", "Andrea Borda Stanford"]
+  },
+  "classmates": [
+    {
+      "id": "bolin",
+      "full_name": "Gregory P. Bolin",
+      "common_name": "Greg Bolin",
+      "section": "A",
+      "dates": {
+        "born": {
+          "year": 1964,
+          "month": null,
+          "day": null,
+          "confidence": "HIGH",
+          "source": "Find A Grave headstone reads '1964 – 1996'",
+          "notes": "Exact day not located"
+        },
+        "died": {
+          "year": 1996,
+          "month": 6,
+          "day": 6,
+          "confidence": "HIGH",
+          "source": "Los Angeles Times, June 15, 1996",
+          "notes": "An earlier LA Times article (June 11) called the day 'Friday', which would imply June 7. Reported age also conflicts (31 vs 32). June 6 / age 31 is the best-supported reading."
+        },
+        "age_at_death": 31,
+        "cause_of_death": "Killed in a bicycle accident",
+        "buried": "Pacific View Memorial Park, Corona del Mar, Orange County, CA (Seaview, Lot 1453, Space D)"
+      },
+      "education": [
+        { "institution": "UCLA", "year": 1987, "degree": "B.A.", "field": "English", "notes": "Athletic scholarship; football team — Rose Bowl and Fiesta Bowl teams" },
+        { "institution": "CSU Long Beach", "year": 1990, "degree": "Secondary Teaching Credential" },
+        { "institution": "UCLA Anderson School of Management", "year": 1996, "degree": "M.B.A.", "notes": "Awarded posthumously" }
+      ],
+      "career": [
+        { "employer": "Mater Dei High School, Santa Ana, CA", "role": "English Teacher and Assistant Football Coach" },
+        { "employer": "Lehman Brothers, San Francisco", "role": "Investment Banking (offer accepted, never started — death occurred before start date)" }
+      ],
+      "biography": "Greg grew up in Fountain Valley, California, where he was a first-team all-county high school tight end. He earned an athletic scholarship to UCLA, played on Rose Bowl and Fiesta Bowl teams, and graduated in 1987 with a B.A. in English. He went on to earn a secondary teaching credential from CSU Long Beach in 1990, then taught English and served as an assistant football coach at Mater Dei High School in Santa Ana. He returned to UCLA for his MBA at the Anderson School of Management. At the time of his death he was completing the program and had accepted an investment-banking role with Lehman Brothers in San Francisco. He died on June 6, 1996, age 31, killed riding his bicycle. UCLA Anderson awarded him his MBA posthumously.",
+      "memorial_legacy": "In 2006 — ten years after his death — UCLA Anderson established the Greg Bolin Fellowship, supporting MBA students in his memory.",
+      "family": {},
+      "interests": ["Football", "Traveling", "Reading"],
+      "obituary": {
+        "type": "drafted",
+        "status": "No formal obituary located",
+        "source": "Synthesized from LA Times reports (June 11 and June 15, 1996) and UCLA Anderson institutional sources",
+        "text": "Gregory P. \"Greg\" Bolin, 31, of Fountain Valley, California, was killed in a bicycle accident on Thursday, June 6, 1996, weeks short of completing his MBA at the UCLA Anderson School of Management. A 1987 graduate of UCLA — where he played on Rose Bowl and Fiesta Bowl football teams after a standout high-school career as a first-team all-county tight end — Greg returned to teaching after college, earning a secondary credential from CSU Long Beach in 1990 and joining Mater Dei High School in Santa Ana as an English teacher and assistant football coach. He had recently accepted an investment-banking position with Lehman Brothers in San Francisco. Greg was an athlete's athlete and a teacher's teacher: loyal, hard-working, and generous with his time. He is buried at Pacific View Memorial Park in Corona del Mar. UCLA Anderson awarded him his MBA posthumously, and in 2006 his classmates and family established the Greg Bolin Fellowship at Anderson in his memory."
+      },
+      "photos": [
+        { "type": "yearbook", "description": "1996 UCLA Anderson MBA class profile portrait", "filename": "bolin_yb.jpg" },
+        { "type": "headstone", "description": "Pacific View Memorial Park headstone (Find A Grave) — confirms 1964–1996", "filename": "bolin_headstone.jpg", "url": "https://images.findagrave.com/photos/2024/224/273486769_98ae3f39-ac28-49dd-ae79-98d58665169e.jpeg" }
+      ],
+      "sources": [
+        { "label": "Find A Grave memorial #273486769", "url": "https://www.findagrave.com/memorial/273486769/gregory-phillip-bolin" },
+        { "label": "LA Times — June 11, 1996", "url": "https://www.latimes.com/archives/la-xpm-1996-06-11-sp-13780-story.html" },
+        { "label": "LA Times — June 15, 1996", "url": "https://www.latimes.com/archives/la-xpm-1996-06-15-me-15201-story.html" },
+        { "label": "UCLA Anderson — Greg Bolin Fellowship reference", "url": "https://www.anderson.ucla.edu/news-and-events/this-ucla-anderson-entrepreneur-secured-funding-for-two-degrees" }
+      ],
+      "unresolved": ["Exact day of death (June 6 vs June 7)", "Exact birth date"]
+    },
+    {
+      "id": "borda_stanford",
+      "full_name": "Andrea E. (Borda) Stanford",
+      "common_name": "Andrea Stanford",
+      "maiden_name": "Borda",
+      "section": "A",
+      "dates": {
+        "born": {
+          "year": null,
+          "month": null,
+          "day": null,
+          "confidence": "LOW",
+          "source": "Inferred from Pepperdine BS 1988",
+          "notes": "Likely 1966–67"
+        },
+        "died": {
+          "year": 2021,
+          "month": 8,
+          "day": 14,
+          "confidence": "HIGH",
+          "source": "Same-day family announcement on her Instagram account",
+          "notes": "An earlier research pass reported August 16; the August 14 date from the Instagram primary source supersedes it."
+        },
+        "cause_of_death": "Pancreatic cancer",
+        "cause_confidence": "HIGH (confirmed via Project Purple memorial fund language)"
+      },
+      "education": [
+        { "institution": "Pepperdine University", "year": 1988, "degree": "B.S.", "field": "Business Administration" },
+        { "institution": "UCLA Anderson School of Management", "year": 1996, "degree": "M.B.A." }
+      ],
+      "career": [
+        { "employer": "Pfizer Pharmaceuticals", "role": "Institutional Specialty Pharmaceutical Representative", "location": "Los Angeles" },
+        { "employer": "eStyle, Inc. / Babystyle.com", "role": "Vice President of Marketing", "location": "Los Angeles" },
+        { "employer": "The Walt Disney Company", "role": "Director of Marketing & Communications" },
+        { "employer": "C Magazine", "role": "Editorial design / launch contributor" },
+        { "employer": "One Kings Lane", "role": "VP of Merchandising; General Manager of Hunters Alley" },
+        { "employer": "Everything But The House (EBTH)", "role": "SVP Marketing & Partnerships" },
+        { "employer": "Leaf Group / Society6", "role": "Senior Vice President and General Manager of Society6", "year_appointed": 2018, "notes": "Described by Leaf Group as a 20-year e-commerce and marketing veteran" }
+      ],
+      "civic": [
+        { "organization": "Camp Kesem (Los Angeles board)", "role": "Board Member" }
+      ],
+      "biography": "Andrea earned a B.S. in Business Administration from Pepperdine in 1988, then worked as an institutional specialty pharmaceutical representative at Pfizer in Los Angeles before entering UCLA Anderson, where she earned her MBA in 1996. Over the next two decades she became a notable Los Angeles consumer-brand and digital-commerce executive, holding senior roles across pharmaceuticals, e-commerce, editorial design, and consumer brands. She served on the Los Angeles board of Camp Kesem, the national nonprofit supporting children of parents with cancer.",
+      "memorial_legacy": "A Project Purple memorial fund was created in her honor to support pancreatic-cancer research and patient outcomes.",
+      "family": {
+        "spouse": "Steven \"Steve\" Stanford",
+        "children": ["Ryan Stanford", "Brooke Stanford", "Jade Stanford"],
+        "father": "John William Borda (1933–2020), Gardnerville/Carson City, NV"
+      },
+      "interests": ["Travel", "Skiing", "Literature"],
+      "obituary": {
+        "type": "drafted",
+        "status": "No formal obituary located",
+        "source": "Synthesized from family Instagram announcement (Aug 14, 2021) and Project Purple memorial fund language",
+        "text": "Andrea E. (Borda) Stanford, of Los Angeles, California, died on August 14, 2021, after a battle with pancreatic cancer. A graduate of Pepperdine University (B.S. 1988) and the UCLA Anderson School of Management (M.B.A. 1996), Andrea was a brand strategist and creative executive whose 20-year career bridged editorial design, e-commerce, and consumer-brand leadership. After early years at Pfizer and at eStyle/Babystyle.com, she held senior roles at the Walt Disney Company, helped launch C Magazine, and went on to serve as VP of Merchandising and General Manager of Hunters Alley at One Kings Lane and as SVP of Marketing & Partnerships at Everything But The House. In 2018 she was named Senior Vice President and General Manager of Society6 by Leaf Group. She was a board member of Camp Kesem-Los Angeles. Andrea is survived by her husband, Steven Stanford, and her three children — Ryan, Brooke, and Jade — and was preceded in death by her father, John W. Borda. A Project Purple memorial fund was created in her honor to advance pancreatic-cancer research. Andrea was known for her warmth, her impeccable taste, and her ability to build teams and brands with equal grace."
+      },
+      "photos": [
+        { "type": "yearbook", "description": "1996 UCLA Anderson MBA class profile portrait", "filename": "borda_yb.jpg" }
+      ],
+      "sources": [
+        { "label": "Family Instagram death announcement", "url": "https://www.instagram.com/p/CSi9eMAr4zl/" },
+        { "label": "Leaf Group / Society6 appointment press release (2018, full bio)", "url": "https://ir.leafgroup.com/investor-press-releases/press-release-details/2018/Leaf-Group-Names-Andrea-Stanford-Senior-Vice-President-and-General-Manager-of-Society6/default.aspx" },
+        { "label": "John William Borda obituary (her father)", "url": "https://www.nevadaappeal.com/news/2020/jun/09/john-william-borda/" },
+        { "label": "Habitually Chic feature on her LA home (2012)", "url": "https://www.habituallychic.luxury/2012/03/chic-site-for-moms/" },
+        { "label": "Coveteur 'Inside Closets' profile", "url": "https://coveteur.com/andrea-stanford" }
+      ],
+      "unresolved": ["Exact birth date"]
+    },
+    {
+      "id": "lulenski",
+      "full_name": "Jeffrey Steven Lulenski",
+      "common_name": "Jeff Lulenski",
+      "section": "A",
+      "dates": {
+        "born": {
+          "year": 1967,
+          "month": null,
+          "day": null,
+          "confidence": "HIGH",
+          "source": "Herald-Palladium obituary index entry 'Jeffrey Steven Lulenski, 1967-2020'",
+          "notes": "Exact day not located"
+        },
+        "died": {
+          "year": 2020,
+          "month": 4,
+          "day": 24,
+          "confidence": "HIGH",
+          "source": "Michigan State University in memoriam, fall 2020"
+        },
+        "age_at_death": 52,
+        "cause_of_death": "Not publicly stated"
+      },
+      "education": [
+        { "institution": "Michigan State University", "year": 1990, "degree": "B.A.", "field": "Business / Telecommunications" },
+        { "institution": "UCLA Anderson School of Management", "year": 1996, "degree": "M.B.A." }
+      ],
+      "career": [
+        { "employer": "SAS Institute", "role": "Account Representative", "location": "Chicago", "period": "Pre-MBA" },
+        { "employer": "Deloitte", "role": "Telecommunications & Media Practice", "duration": "~2 years" },
+        { "employer": "Tribune Company", "role": "Tribune Publications and Tribune Media corporate development" },
+        { "employer": "Knight Ridder Digital", "role": "Business Development", "location": "San Jose" },
+        { "employer": "Yahoo!", "role": "Vice President of Business Development", "period": "2006–2010" },
+        { "employer": "Manilla.com (Hearst)", "role": "Senior business development" },
+        { "employer": "hibu", "role": "VP of Global Corporate Business Development", "year_referenced": 2013 },
+        { "employer": "GoDaddy", "role": "Vice President and General Manager of Global Partnerships", "location": "Pleasanton" }
+      ],
+      "biography": "Jeff was raised in St. Joseph, Michigan, the son of Dr. Gary C. Lulenski. He graduated from Michigan State University in 1990, then joined SAS Institute as an account representative based in Chicago. He met his wife Heather and later moved to California, ultimately settling in San Jose. After earning his UCLA Anderson MBA in 1996, Jeff built a 25-year career in business development across media and digital — at Deloitte, Tribune, Knight Ridder Digital, Yahoo!, Manilla, hibu, and GoDaddy.",
+      "family": {
+        "spouse": "Heather Lulenski",
+        "daughters": ["Sienna Lulenski", "Kelsey Lulenski"],
+        "father": "Dr. Gary C. Lulenski (d. 2025)",
+        "stepmother": "Kathryn 'Kaye' Lulenski (d. 2022)",
+        "brothers": ["Michael Lulenski", "David Lulenski"]
+      },
+      "interests": ["Music", "Movies", "All Sports"],
+      "obituary": {
+        "type": "drafted",
+        "status": "Indexed in The Herald-Palladium ('Obituary for Jeffrey Steven Lulenski, 1967-2020') but text not retrievable on the open web",
+        "source": "Synthesized from Michigan State in memoriam, Herald-Palladium index, family obituaries (Starks Family Funeral Homes), and BIA Leading In Local 2013 attendee list",
+        "text": "Jeffrey Steven \"Jeff\" Lulenski, of San Jose, California, died on April 24, 2020, at age 52. A graduate of Michigan State University (B.A. 1990) and the UCLA Anderson School of Management (M.B.A. 1996), Jeff spent his career building business-development and partnership organizations across the technology and media industries — at Deloitte, Tribune, Knight Ridder Digital, Yahoo!, Manilla, hibu, and GoDaddy. He was a music and film lover and a sports enthusiast. He is survived by his wife Heather and daughters Sienna and Kelsey, and by his brothers Michael and David. His stepmother Kathryn ('Kaye') Lulenski passed in 2022; his father Dr. Gary C. Lulenski passed in 2025. Friends and colleagues remember Jeff for his easygoing humor, his loyalty, and his quiet competence — the kind of partner who made every team and every deal he touched better."
+      },
+      "photos": [
+        { "type": "yearbook", "description": "1996 UCLA Anderson MBA class profile portrait", "filename": "lulenski_yb.jpg" },
+        { "type": "candid", "description": "Jeff and Heather Lulenski (joint Flickr profile photo)", "filename": "lulenski_couple.jpg", "source_url": "https://www.flickr.com/photos/lulenski/" }
+      ],
+      "sources": [
+        { "label": "Michigan State University — In Memoriam, Fall 2020", "url": "https://spartan.msu.edu/spartan-story-hub/news/2020/10/in-memoriam-fall-2020" },
+        { "label": "Herald-Palladium obituary index entry (text not retrievable)", "url": "https://www.newspapers.com/profile/jeanajohnson/" },
+        { "label": "Dr. Gary C. Lulenski obituary (Starks Family Funeral Homes, 2025)", "url": "https://www.starksfamilyfh.com/obituaries/dr-gary-lulenski" },
+        { "label": "Kathryn 'Kaye' Lulenski obituary (Starks Family Funeral Homes, 2022)", "url": "https://www.starksfamilyfh.com/obituaries/kathryn-lulenski" },
+        { "label": "BIA Leading In Local conference 2013 attendee list", "url": "https://www.bia.com/LeadinginLocalSanFrancisco/LeadingInLocal-ILM-AttendeeList.pdf" },
+        { "label": "Jeff Lulenski Flickr profile (joint with Heather)", "url": "https://www.flickr.com/photos/lulenski/" }
+      ],
+      "unresolved": ["Exact birth date", "Cause of death not publicly stated", "Herald-Palladium obituary text not retrievable"]
+    },
+    {
+      "id": "ribeiro_neto",
+      "full_name": "Artur Ribeiro Neto",
+      "common_name": "Artur Ribeiro",
+      "section": "E",
+      "dates": {
+        "born": {
+          "year": 1963,
+          "year_alt": 1964,
+          "month": null,
+          "day": null,
+          "confidence": "MEDIUM",
+          "source": "Inferred from Exame report 'aged 46 at Sept 20, 2010 death'",
+          "notes": "Birth year inferred to be 1963 or 1964"
+        },
+        "died": {
+          "year": 2010,
+          "month": 9,
+          "day": 20,
+          "confidence": "HIGH",
+          "source": "Exame, October 10, 2010",
+          "notes": "Died in the early morning of Tuesday, September 20, 2010, at Hospital Sírio-Libanês, São Paulo"
+        },
+        "age_at_death": 46,
+        "cause_of_death": "Cancer",
+        "place_of_death": "Hospital Sírio-Libanês, São Paulo, Brazil"
+      },
+      "education": [
+        { "institution": "University of São Paulo (USP)", "year": 1984, "degree": "B.A.", "field": "Journalism", "school": "Escola de Comunicações e Artes" },
+        { "institution": "UCLA", "year": 1994, "degree": "Ph.D.", "field": "Political Science", "advisor": "Barbara Geddes" },
+        { "institution": "UCLA Anderson School of Management", "year": 1996, "degree": "M.B.A." }
+      ],
+      "career": [
+        { "employer": "Folha de São Paulo", "role": "Editor of the Editorial Pages / Political Editor", "period": "Pre-MBA" },
+        { "employer": "Booz Allen & Hamilton", "role": "Consultant", "location": "Brazil" },
+        { "employer": "Votorantim Group / Votorantim Venture Capital (VVC)", "role": "Executive Director", "notes": "Final role at death; helped build Votorantim's new-business arm; final transaction was the 2010 merger of Optiglobe and Proceda to form Tivit" }
+      ],
+      "scholarship": [
+        {
+          "title": "Institutional Sources of Corruption in Brazil",
+          "co_author": "Barbara Geddes",
+          "publication": "Third World Quarterly",
+          "volume": 13,
+          "issue": 4,
+          "year": 1992,
+          "reprinted_in": "Corruption and Political Reform in Brazil: The Impact of Collor's Impeachment (1999, North-South Center Press, University of Miami)",
+          "significance": "Frequently cited foundational text on Brazilian political institutions; argues that the 1988 Constitution's institutional design produced systemic cronyism"
+        }
+      ],
+      "biography": "Born and raised in São Paulo, Brazil, Artur earned a B.A. in Journalism from the University of São Paulo in 1984. He joined Folha de São Paulo and rose to become Editor of the Editorial Pages. In the late 1980s he came to UCLA for graduate study in Political Science, earning his Ph.D. in 1994 under Professor Barbara Geddes, then his MBA from UCLA Anderson in 1996. He returned to Brazil and worked as a consultant at Booz Allen & Hamilton before joining the Votorantim Group as Executive Director of Votorantim Venture Capital. His most prominent transaction was the 2010 merger of Optiglobe and Proceda to form Tivit. Artur lived at the rare intersection of journalism, political-science scholarship, and finance.",
+      "family": {
+        "spouse": "Angela Issler Marsiaj — Brazilian writer and novelist; born in Porto Alegre, raised in São Paulo. Author of the novels Soroca and O enigma de todos os tempos (Editora Urutau)."
+      },
+      "interests": ["Travel", "The Arts", "Sports"],
+      "obituary": {
+        "type": "published",
+        "publication": "Exame",
+        "date_published": "2010-10-10",
+        "title": "Morre o executivo Artur Ribeiro, diretor do grupo Votorantim",
+        "url": "https://exame.com/negocios/morre-o-executivo-artur-ribeiro-diretor-do-grupo-votorantim-m0076782/",
+        "language": "Portuguese (Brazilian)",
+        "excerpt_translated": "He died of cancer in the early hours of Tuesday, September 20, at Hospital Sírio Libanês, in São Paulo, at age 46. Artur Ribeiro Neto, an administrator and journalist, was Executive Director of Votorantim Venture Capital (VVC), the new-business area of the Votorantim Group. He was a graduate in journalism from the School of Communications and Arts of USP, a career path he followed before transitioning into business and finance.",
+        "tribute_quote": {
+          "speaker": "Paulo Henrique de Oliveira Santos",
+          "role": "President of VVC",
+          "text": "Artur is the one who helped me build, practically from scratch, the new-business area of the Votorantim Group. What always characterized him was the consistency of his brilliant insights."
+        }
+      },
+      "photos": [
+        { "type": "yearbook", "description": "1996 UCLA Anderson MBA class profile portrait", "filename": "ribeiro_yb.jpg" }
+      ],
+      "sources": [
+        { "label": "Exame death notice (Oct 10, 2010)", "url": "https://exame.com/negocios/morre-o-executivo-artur-ribeiro-diretor-do-grupo-votorantim-m0076782/" },
+        { "label": "Geddes & Ribeiro Neto, 'Institutional Sources of Corruption in Brazil' (1992) — JSTOR", "url": "https://www.jstor.org/stable/3992381" },
+        { "label": "Geddes & Ribeiro Neto — ResearchGate metadata", "url": "https://www.researchgate.net/publication/261583552_Institutional_Sources_of_Corruption_in_Brazil" },
+        { "label": "Foreign Affairs review of Corruption and Political Reform in Brazil (1999 book)", "url": "https://www.foreignaffairs.com/reviews/capsule-review/1999-07-01/corruption-and-political-reform-brazil-impact-collors-impeachment" },
+        { "label": "Editora Urutau — author bio for Angela Issler Marsiaj (his widow)", "url": "https://editoraurutau.com/autor/angela-marsiaj" },
+        { "label": "Barbara Geddes — UCLA Political Science (his dissertation advisor)", "url": "https://polisci.ucla.edu/person/barbara-geddes/" }
+      ],
+      "unresolved": ["Exact birth date"]
+    },
+    {
+      "id": "smith",
+      "full_name": "Randolph Grant Smith",
+      "common_name": "Randy Smith",
+      "section": "B",
+      "dates": {
+        "born": {
+          "year": 1969,
+          "month": 1,
+          "day": 9,
+          "confidence": "HIGH",
+          "source": "Legacy.com obituary"
+        },
+        "died": {
+          "year": 2021,
+          "month": 9,
+          "day": 4,
+          "confidence": "HIGH",
+          "source": "Seattle Times / LA Times obituary"
+        },
+        "age_at_death": 52,
+        "cause_of_death": "Cancer (colon cancer; diagnosed at age 49)",
+        "place_of_death": "His home in Bellevue, Washington"
+      },
+      "education": [
+        { "institution": "Thacher School", "year": 1987, "location": "Ojai, CA", "degree": "High school" },
+        { "institution": "Study abroad in Finland", "period": "Gap year before college" },
+        { "institution": "Georgetown University", "year": 1992, "degree": "B.A.", "field": "History" },
+        { "institution": "UCLA Anderson School of Management", "year": 1996, "degree": "M.B.A." }
+      ],
+      "career": [
+        { "employer": "Wilmer, Cutler & Pickering", "role": "Legal Assistant", "location": "Washington, DC", "period": "Pre-MBA" },
+        { "employer": "Microsoft", "role": "Senior Business Development Manager, Digital Media Division", "location": "Redmond, WA", "duration": "12+ years", "notes": "Built partner ecosystems for Windows Media and the Windows Phone platform" },
+        { "employer": "DTS Inc.", "role": "Vice President of Product Management", "location": "Calabasas, CA", "notes": "Covered PC, mobile, and smart-TV product lines" },
+        { "employer": "Syntonic", "role": "Vice President of Corporate and Business Development", "location": "Seattle, WA", "year_appointed": 2017 }
+      ],
+      "biography": "Randy grew up in Pacific Palisades, California. He graduated from the Thacher School in Ojai in 1987, deferred college for a year of study abroad in Finland, and then earned his B.A. in History from Georgetown University in 1992, where he was active in theater and met his future wife, Karen Dahl. He worked as a legal assistant at Wilmer, Cutler & Pickering in Washington, DC before entering UCLA Anderson, earning his MBA in 1996. Randy spent more than 12 years at Microsoft in Redmond, then served as VP of Product Management at DTS, and in 2017 became VP of Corporate and Business Development at Syntonic. He was diagnosed with cancer at age 49 and continued working and living life fully alongside his treatment for nearly four years.",
+      "family": {
+        "spouse": "Karen Dahl (met at Georgetown)",
+        "daughters": ["Sarah Smith (age 20 at father's death)", "Megan Smith (age 17)"],
+        "parents": ["Ann Smith", "George Smith"],
+        "parents_location": "Pacific Palisades, CA",
+        "brother": "Morgan Smith",
+        "aunt": "Jean Garrett (Los Angeles)"
+      },
+      "interests": ["Rock Climbing", "Biking", "Theater"],
+      "obituary": {
+        "type": "published",
+        "publication": "Los Angeles Times / Seattle Times",
+        "url_primary": "https://obituaries.seattletimes.com/obituary/randolph-smith-1083249018/",
+        "url_legacy": "https://www.legacy.com/obituaries/name/randolph-smith-obituary?pid=200164896",
+        "excerpt": "Randy Smith, a beloved husband and father with a wry sense of humor and an impressive career in product development and strategy for tech companies, died peacefully September 4 at age of 52 at his home in Bellevue, Washington, due to cancer. Randy grew up in Pacific Palisades, California and graduated from Thacher School in Ojai in 1987. He deferred a year of college to do study abroad in Finland and then returned to begin at Georgetown University where he majored in history and was active in theater. After earning his BA 1992, he earned his MBA from Anderson School of Business at UCLA.",
+        "celebration_of_life": "October 23, 2021, at St. Matthew's Church, Pacific Palisades, CA"
+      },
+      "photos": [
+        { "type": "modern", "description": "From the Seattle Times / Los Angeles Times obituary, 2021", "filename": "smith_modern.jpg", "source_url": "https://d1q40j6jx1d8h6.cloudfront.net/Obituaries/35076982/Image_3.jpg" },
+        { "type": "yearbook", "description": "1996 UCLA Anderson MBA class profile portrait", "filename": "smith_yb.jpg" }
+      ],
+      "sources": [
+        { "label": "Randolph Smith obituary — Seattle Times", "url": "https://obituaries.seattletimes.com/obituary/randolph-smith-1083249018/" },
+        { "label": "Randolph Smith obituary — Legacy.com", "url": "https://www.legacy.com/obituaries/name/randolph-smith-obituary?pid=200164896" },
+        { "label": "Randolph Smith obituary — Legacy.com / LA Times", "url": "https://www.legacy.com/us/obituaries/latimes/name/randolph-smith-obituary?id=18161035" },
+        { "label": "Syntonic press release — VP Corporate & BD appointment, Jan 2017", "url": "https://www.syntonic.com/2017/01/syntonic-appoints-former-microsoft-digital-media-veteran-as-vice-president-of-business-development/" },
+        { "label": "GeekWire Tech Moves coverage", "url": "https://www.geekwire.com/2017/tech-moves-16/" }
+      ],
+      "unresolved": []
+    },
+    {
+      "id": "verkauf",
+      "full_name": "Stefanie L. Verkauf",
+      "common_name": "Stefanie Verkauf",
+      "section": "D",
+      "dates": {
+        "born": {
+          "year": 1967,
+          "month": 4,
+          "day": 9,
+          "confidence": "HIGH",
+          "source": "Van Orsdel funeral home memorial page"
+        },
+        "died": {
+          "year": 2010,
+          "month": 12,
+          "day": 4,
+          "confidence": "HIGH",
+          "source": "Tampa Bay Times obituary; Van Orsdel memorial page; The Pennsylvania Gazette confirms"
+        },
+        "age_at_death": 43,
+        "cause_of_death": "Brain cancer (inferred from Voices Against Brain Cancer memorial donation request)",
+        "place_of_death": "Miami, Florida",
+        "place_of_birth": "Baltimore, Maryland"
+      },
+      "education": [
+        { "institution": "Berkeley Preparatory School", "location": "Tampa, FL", "degree": "High school" },
+        { "institution": "University of Pennsylvania", "year": 1989, "degree": "B.A.", "field": "Theater Arts" },
+        { "institution": "UCLA Anderson School of Management", "year": 1996, "degree": "M.B.A." }
+      ],
+      "career": [
+        { "employer": "Playwrights Horizons", "role": "Associate Director of Development", "location": "New York, NY", "period": "Pre-MBA", "notes": "Off-Broadway theater that championed playwrights like Wendy Wasserstein and Stephen Sondheim" },
+        { "employer": "San Francisco Ballet", "role": "Development", "location": "San Francisco" },
+        { "employer": "San Francisco Museum of Modern Art", "role": "Development", "location": "San Francisco" }
+      ],
+      "biography": "Stefanie was born April 9, 1967 in Baltimore and raised in Tampa, the daughter of Dr. Barry S. Verkauf — a pioneering Tampa reproductive endocrinologist who performed Florida's first successful IVF birth — and Arline Verkauf. She graduated from Berkeley Preparatory School in Tampa, then earned a B.A. in Theater Arts from the University of Pennsylvania in 1989. Before UCLA Anderson, she was Associate Director of Development at Playwrights Horizons in New York. After earning her MBA in 1996, Stefanie applied her arts-and-fundraising background in San Francisco, working in development at the San Francisco Ballet and the San Francisco Museum of Modern Art. She later married Michael Costello and the family moved to Miami.",
+      "memorial_legacy": "UCLA Anderson maintains the Stefanie L. Verkauf Memorial Fellowship, supporting MBA students in her memory.",
+      "family": {
+        "spouse": "Michael Costello (Oakland, CA → Miami, FL)",
+        "children": ["Quinn Costello", "Griffin Costello", "Donovan Costello"],
+        "sister": "Leslie Cohen (Larchmont, NY)",
+        "parents": ["Dr. Barry Verkauf", "Arline Verkauf"],
+        "parents_location": "Tampa, FL",
+        "grandparents": ["Rose Verkauf (Tampa)", "Jack Laviage (Houston, TX)", "Pat Laviage (Houston, TX)"]
+      },
+      "interests": ["Travel", "Backpacking", "Painting"],
+      "obituary": {
+        "type": "published",
+        "publications": ["Tampa Bay Times", "Van Orsdel funeral home memorial page", "The Pennsylvania Gazette (institutional listing)"],
+        "date_published": "2010-12-06",
+        "url_tampa_bay": "https://www.legacy.com/us/obituaries/tampabaytimes/name/stefanie-verkauf-obituary?id=11113894",
+        "url_funeral_home": "https://www.vanorsdel.com/obituaries/stefaniel-verkauf-946",
+        "summary": "Stefanie was remembered as creative and always interested in the performing and visual arts and their value to society. The Tampa Bay Times described her life as 'a life half finished.' She worked for the San Francisco Ballet and the San Francisco Museum of Modern Art before relocating to Miami after marrying Michael Costello. The family asked that donations be made in her memory to Voices Against Brain Cancer.",
+        "memorial_service": "December 12, 2010, 1:30 p.m., Congregation Rodeph Sholom, 2713 Bayshore Boulevard, Tampa",
+        "memorial_donations": "Voices Against Brain Cancer"
+      },
+      "photos": [
+        { "type": "yearbook", "description": "1996 UCLA Anderson MBA class profile portrait", "filename": "verkauf_yb.jpg" }
+      ],
+      "sources": [
+        { "label": "Stefanie Verkauf obituary — Tampa Bay Times via Legacy.com", "url": "https://www.legacy.com/us/obituaries/tampabaytimes/name/stefanie-verkauf-obituary?id=11113894" },
+        { "label": "Van Orsdel funeral home memorial page", "url": "https://www.vanorsdel.com/obituaries/stefaniel-verkauf-946" },
+        { "label": "UCLA Anderson — Student Fellowships (Stefanie L. Verkauf Memorial Fellowship)", "url": "https://www.anderson.ucla.edu/about/office-of-development/student-fellowships" },
+        { "label": "UCLA Anderson — Fellowships archive", "url": "https://www.anderson.ucla.edu/give/fellowships-archive" },
+        { "label": "Dr. Barry Verkauf — Healthgrades (her father)", "url": "https://www.healthgrades.com/physician/dr-barry-verkauf-24fth" }
+      ],
+      "unresolved": []
+    },
+    {
+      "id": "yeuell",
+      "full_name": "Donovan Paul Yeuell III",
+      "common_name": "D. Paul Yeuell",
+      "section": "A",
+      "dates": {
+        "born": {
+          "year": 1951,
+          "month": null,
+          "day": null,
+          "confidence": "HIGH",
+          "source": "YouTube memorial title '1951–2022' and 'age 70' in Stanford Magazine",
+          "notes": "Exact day not located"
+        },
+        "died": {
+          "year": 2022,
+          "month": 12,
+          "day": 20,
+          "confidence": "HIGH",
+          "source": "Stanford Magazine, May 2023 (day/month/age explicit; year inferred from issue date and confirmed by YouTube memorial title)"
+        },
+        "age_at_death": 70,
+        "cause_of_death": "Not publicly stated",
+        "place_of_death": "His home in Mount Vernon, Washington",
+        "additional_notes": "YouTube memorial says he passed at home with his dog Harley by his side"
+      },
+      "education": [
+        { "institution": "Stanford University", "year": 1974, "degree": "B.A.", "field": "American Literature", "notes": "Co-captain of the lacrosse team" },
+        { "institution": "UCLA Anderson School of Management", "year": 1996, "degree": "M.B.A." }
+      ],
+      "career": [
+        { "employer": "Paul White General Contractor", "role": "Estimator/Project Supervisor", "location": "Los Angeles", "period": "Pre-MBA" },
+        { "industry": "Entertainment", "role": "Actor and writer in Los Angeles", "duration": "Many years", "notes": "IMDb credits include The Ambulance (1990), Babylon 5 episode 'Infection' (1993, as a Customs Guard), Damages (FX, 2007)" },
+        { "industry": "Agriculture", "role": "Heirloom tomato grower / commercial business builder", "location": "Mount Vernon, WA (Skagit Valley)", "year_started": 2018 }
+      ],
+      "biography": "Paul came from a military lineage — his father, Col. Donovan Paul Yeuell Jr. (USMA 1940), is buried at West Point, and his grandfather Col. Donovan Paul Yeuell Sr. (1894–1953) preceded them both. Paul broke from that path and graduated from Stanford in 1974 with a B.A. in American Literature, where he was co-captain of the lacrosse team. He spent many years in Los Angeles as a working actor and writer. He returned to UCLA Anderson and earned his MBA in 1996. In 2018, at age 67, he reinvented himself again, moving to Mount Vernon, Washington in the Skagit Valley to build a commercial heirloom tomato business. He was an ocean swimmer and paddler, a mountaineer, and devoted to his Belgian Tervuren, Harley.",
+      "family": {
+        "sisters_survivors": ["Sherry Craven", "Susan", "Michel"],
+        "father": "Col. Donovan Paul Yeuell Jr., USMA 1940 (predeceased; buried West Point)",
+        "grandfather": "Col. Donovan Paul Yeuell Sr. (1894–1953)"
+      },
+      "interests": ["Water Sports (ocean swimming and paddling)", "Mountaineering", "Storytelling"],
+      "pet": "Belgian Tervuren named Harley",
+      "obituary": {
+        "type": "published",
+        "publication": "Stanford Magazine",
+        "issue_date": "May 2023",
+        "url": "https://stanfordmag.org/contents/obituaries-may-2023",
+        "verbatim_text": "Donovan Paul Yeuell III, '74 (English), of Mount Vernon, Wash., December 20, at 70. He was co-captain of the lacrosse team and went on to earn an MBA from UCLA. He was a master storyteller who spent many years in Los Angeles as an actor and writer. In 2018, he dedicated himself to building a commercial heirloom tomato business. He never missed an opportunity to swim or paddle in the ocean. He loved his Belgian Tervuren named Harley. Survivors include his sisters, Sherry Craven, Susan, and Michel.",
+        "supplementary_memorial": {
+          "title": "Celebrating the Life of D. Paul Yeuell (1951–2022)",
+          "type": "YouTube memorial video",
+          "published": "January 2023",
+          "url": "https://www.youtube.com/watch?v=VZj_xmbDb2o"
+        }
+      },
+      "photos": [
+        { "type": "modern", "description": "Frame from the YouTube memorial 'Celebrating the Life of D. Paul Yeuell (1951–2022)'", "filename": "yeuell_modern2.jpg", "source_url": "https://www.youtube.com/watch?v=VZj_xmbDb2o" },
+        { "type": "yearbook", "description": "1996 UCLA Anderson MBA class profile portrait", "filename": "yeuell_yb.jpg" }
+      ],
+      "sources": [
+        { "label": "Stanford Magazine obituary, May 2023", "url": "https://stanfordmag.org/contents/obituaries-may-2023" },
+        { "label": "YouTube memorial — 'Celebrating the Life of D. Paul Yeuell (1951–2022)'", "url": "https://www.youtube.com/watch?v=VZj_xmbDb2o" },
+        { "label": "IMDb — Paul Yeuell", "url": "https://www.imdb.com/name/nm0947770/" },
+        { "label": "Babylon 5 wiki — Paul Yeuell", "url": "https://babylon5.fandom.com/wiki/Paul_Yeuell" },
+        { "label": "Find a Grave — Col. Donovan Paul Yeuell Jr. (his father)", "url": "https://www.findagrave.com/memorial/127703955/donovan-paul-yeuell" }
+      ],
+      "unresolved": ["Exact birth date"]
+    }
+  ],
+  "methodology": {
+    "rule_for_obituary": "Prefer published obituary over drafted; use verbatim where reasonable, summarize where copyright concerns apply; draft from sourced facts where no published obituary exists.",
+    "rule_for_photos": "Aggregate all photos located across both research efforts. Yearbook portraits are baseline; modern portraits added where available.",
+    "confidence_levels": {
+      "HIGH": "Confirmed in a primary source (Stanford Magazine, Tampa Bay Times, LA Times, Seattle Times, Exame, Van Orsdel funeral home, MSU institutional in memoriam, Find A Grave headstone)",
+      "MEDIUM": "Confirmed in a single secondary or institutional source not corroborated elsewhere",
+      "LOW": "Inferred from indirect facts (e.g., graduation year → approximate birth year)"
+    },
+    "merge_updates_applied": [
+      "Andrea Borda Stanford death date corrected from August 16 → August 14, 2021 (per family Instagram primary source)",
+      "Andrea Borda Stanford cause of death confirmed as pancreatic cancer (Project Purple memorial fund)",
+      "Greg Bolin cause of death added: bicycle accident (LA Times, June 15, 1996)",
+      "Greg Bolin pre-MBA Lehman Brothers offer added; UCLA football background added",
+      "Jeff Lulenski exact death date added: April 24, 2020 (Michigan State in memoriam)",
+      "Jeff Lulenski birth year confirmed: 1967 (Herald-Palladium index)",
+      "Jeff Lulenski full middle name added: Steven",
+      "Artur Ribeiro Neto fully confirmed via Exame: Sept 20, 2010, age 46, of cancer at Hospital Sírio-Libanês São Paulo",
+      "Artur Ribeiro Neto career corrected: Folha → Booz Allen → Votorantim Venture Capital (replacing original 'BancBoston Capital' reference)",
+      "Randy Smith exact birth date added: January 9, 1969",
+      "Stefanie Verkauf exact birth date added: April 9, 1967 (Van Orsdel)"
+    ],
+    "unresolved_items_remaining": [
+      "Greg Bolin: exact day of death (June 6 vs June 7); exact birth date",
+      "Andrea Borda Stanford: exact birth date",
+      "Jeff Lulenski: exact birth date; obituary text indexed in Herald-Palladium but not retrievable on the open web",
+      "Artur Ribeiro Neto: exact birth date",
+      "D. Paul Yeuell: exact birth date"
+    ],
+    "recommended_next_steps": [
+      "Contact UCLA Anderson Alumni Relations for confirmed dates of record",
+      "Reach out to Steve Stanford (Andrea's husband) via LinkedIn",
+      "Reach out to Heather Lulenski (Jeff's wife)",
+      "Reach out to Karen Dahl Smith (Randy's wife)",
+      "Reach out to Michael Costello (Stefanie's husband, Miami)",
+      "Reach out to Angela Issler Marsiaj (Artur's widow) via Editora Urutau or LinkedIn",
+      "Reach out to Sherry Craven, Susan, or Michel Yeuell (Paul's sisters)",
+      "Request the Herald-Palladium archive for the Lulenski obituary text",
+      "Search the Folha de São Paulo paid archive for additional Ribeiro Neto coverage"
+    ]
+  }
+}
